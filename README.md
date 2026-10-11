@@ -11,4 +11,4 @@ In-System ECU Voltage & Current Validation Measurements:
 
 
 On-Board Charger Prototype Bench Testing & Measurements:
-<img width="701" height="526" alt="Testing_Phase" src="https://github.com/user-attachments/assets/cf7ecb8a-c19a-4403-a73b-dc74c50a8fd6" />
+<img width="561" height="421" alt="Testing_Phase" src="https://github.com/user-attachments/assets/cf7ecb8a-c19a-4403-a73b-dc74c50a8fd6" />
